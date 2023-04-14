@@ -1,0 +1,62 @@
+section.experience{
+    align-items: center;
+    padding: 3.5rem;
+}
+
+.experience__section__title{
+    text-align: center;
+    color: var(--cor-de-fonte);
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.experience__box{
+    display: flex;
+    padding-left: 52px;
+    row-gap: 1rem;
+}
+
+.experience__img{    
+    height: 406px;
+    width: 752px;
+}
+
+.experience__title {
+    color: var(--cor-de-fonte);
+    font-size: 1.375rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+.experience__text{
+    color: var(--cor-de-fonte);
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.experience__info{
+    justify-content: center;
+    padding-left: 2rem;
+}
+
+.experience__description{
+    gap: 0.625rem;
+    height:4.188rem;
+    padding: 1rem;
+    padding-top: 1.625rem;
+    width: 7.563rem;
+}
+
+.experience__description button{
+    background: linear-gradient(45deg, var(--form-hover1) ,  var(--form-hover3));
+    border: none;
+    border-radius: 0.313rem;
+    height: 3rem;
+    margin-bottom:1rem;
+    width: 10rem;
+}
+
+.experience__description button:hover{
+    background: linear-gradient(var(--btn-hover1), var(--btn-hover2));
+    color: var(--branco);
+}

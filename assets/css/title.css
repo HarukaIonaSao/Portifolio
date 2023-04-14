@@ -1,0 +1,56 @@
+.title{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 90px 32px;
+}
+
+.title__container{
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 2rem;        
+}
+
+.title__bio{
+    color: var(--cor-de-fonte);
+    font-size: 3.25rem;
+    font-weight: 700;
+    line-height: 3.5rem;
+    padding: 1rem 0 2rem 0;
+}
+
+.title__subsection{
+    font-weight: 400;
+    font-size:1.4rem;
+    line-height: 110%;
+}
+
+.title__img{
+    background: url("../img/foto-perfil.png");
+    background-size: cover;
+    border: none;
+    border-radius: 100%;
+    box-shadow: 3px 1px 2px 1px var(--cor-de-fonte);
+    height: 19rem;
+    margin-top: 2rem;
+    width: 39rem;
+}
+
+.title__network{
+    display: flex;
+    padding: 2rem 0 1rem 0;
+}
+
+.title__network ul{
+    list-style-image: initial;
+}
+
+.title__network__item{
+    font-family: 600;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+.title__network:hover{
+    text-decoration: underline;
+}

@@ -2,7 +2,7 @@
     let email = document.getElementById("email");
     let assunto = document.getElementById("assunto");
     let mensagem = document.getElementById("mensagem");
-
+    
 function validate() {
     
         if(nome.value === ""  ) {
@@ -11,7 +11,7 @@ function validate() {
             return;
         }
                       
-        if(email.value == "" || email.value ) {
+        if(email.value == ""  ) {
             alert("E-mail não informado");
             email.focus();
             return;
@@ -34,6 +34,5 @@ function validate() {
 // prevenir defaul
 const btn = document.querySelector("#submit");
 btn.addEventListener("click", function(e){
-    e.preventDefault();
-    
+    e.preventDefault();    
 })

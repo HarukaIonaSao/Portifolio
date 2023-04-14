@@ -1,0 +1,10 @@
+section.footer{
+    height: 100px;
+    padding-top: 2rem;
+    text-align: center;
+}
+
+.footer__rodape{
+    background: linear-gradient(-45deg, var(--form-hover1) , var(--form-hover2), var(--form-hover3));
+    text-decoration: none;
+}

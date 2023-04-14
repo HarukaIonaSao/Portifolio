@@ -1,0 +1,32 @@
+section.about{
+    background: var(--cor-da-navbar);
+    margin: 0px 90px 32px;
+    padding: 1rem;
+}
+
+.about__container{
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 2rem; 
+}
+
+.about__title{
+    color: var(--cor-de-fonte);
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.about__paragraph{
+    color: var(--cor-de-fonte);
+    font-size: 1rem;
+}
+
+.about__img{
+    height: 9.25rem;
+    padding-top: 1rem;
+    width: 12.75rem;
+}
+
+/* Responsividade
+@media (min-width: 768px) */

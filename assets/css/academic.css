@@ -1,0 +1,20 @@
+section.academic{
+    margin: 0px 90px 32px;
+    padding: 1rem;
+}
+
+.academic__title{
+    color: var(--cor-de-fonte);
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.academic__courses{
+    display: flex;
+    justify-content: space-between;
+}
+
+.academic__courses__item__img{
+    width: 14.063rem;
+    height: 14.063rem;
+}

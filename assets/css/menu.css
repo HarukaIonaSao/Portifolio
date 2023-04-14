@@ -1,0 +1,27 @@
+/* menu */
+section.menu{
+    background-color: var(--cor-da-navbar);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.menu__list{
+    display: flex;
+    gap:1rem;
+}
+
+.menu__list__item:hover{
+    color: var(--cor-de-link);
+    text-decoration: underline;
+}
+.menu__img{
+    height: 8rem;
+    width: 10rem;
+}
+
+.menu__title{
+    align-items: center;    
+}
