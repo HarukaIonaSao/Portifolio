@@ -12,13 +12,13 @@ section.experience{
 
 .experience__box{
     display: flex;
-    padding-left: 52px;
+    padding-left: 3.25rem;
     row-gap: 1rem;
 }
 
 .experience__img{    
-    height: 406px;
-    width: 752px;
+    height: 25.375rem;
+    width: 45rem;
 }
 
 .experience__title {

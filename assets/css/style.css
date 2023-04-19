@@ -17,7 +17,6 @@
 }
 
 body {
-    box-sizing: border-box;
     background-color: var(--cor-de-fundo) ;
     color: var(--cor-de-fonte);
     font-family: var(--font);
@@ -34,43 +33,8 @@ a{
     color: var(--cor-de-link);
 }
 
-
-/*Tablet*/
-@media (min-width: 768px) {
-
-/* Menu */
-
-/*title*/
-
-/*Skills*/
-
-/*Hobbies*/
-
-/*Experiências acadêmicas*/
-
-/*Expeirência profissional*/
-
+img {
+    border-radius: 1rem;
 }
 
-/*Mobile*/
-@media (min-width: 425px) {
 
-/*Menu*/
-
-/*Titulo*/
-
-/*Sessão sobre*/
-
-/*Skills*/
-
-/*Hobbies*/
- 
-/*Formação Acadêmica*/
-
-/*Experiência Profissional*/
-
- /*Contato*/
-
-/*Footer*/
-
-}
