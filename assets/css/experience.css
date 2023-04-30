@@ -17,7 +17,7 @@ section.experience{
 }
 
 .experience__img{    
-    height: 25.375rem;
+    height: 22.375rem;
     width: 45rem;
 }
 
@@ -48,7 +48,7 @@ section.experience{
 }
 
 .experience__description button{
-    background: linear-gradient(45deg, var(--form-hover1) ,  var(--form-hover3));
+    background: linear-gradient(45deg, var(--cor-btn1) ,  var(--cor-btn2));
     border: none;
     border-radius: 0.313rem;
     height: 3rem;

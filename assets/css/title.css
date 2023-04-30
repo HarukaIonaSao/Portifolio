@@ -26,14 +26,14 @@
 }
 
 .title__img{
-    background: url("../img/foto-perfil.png");
-    background-size: cover;
+    background: url("../img/foto-perfil.jpg");
+    background-size:cover;
     border: none;
-    border-radius: 100%;
-    box-shadow: 3px 1px 2px 1px var(--cor-de-fonte);
+    border-radius: 50%;
+    box-shadow: 3px 1px 2px 1px var(--cor-de-foto-fundo);
     height: 19rem;
     margin-top: 2rem;
-    width: 39rem;
+    width: 49rem;
 }
 
 .title__network{

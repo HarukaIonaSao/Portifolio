@@ -1,18 +1,19 @@
 :root{
    --cor-de-fonte: #464646;
-   --cor-de-fundo: #d0f5f033;
+   --cor-de-foto-fundo: #800080;
+   --cor-de-fundo: #f7b9f760;
    --cor-de-link: #000;
    --cor-da-navbar: #ffffff;
    --branco: #f5f5f5;
-   --cor-btn1:#084ed1;
-   --cor-btn2:#7cc8dfc5;
+   --cor-btn1:#840c9c91;
+   --cor-btn2:#cf7cdf4f;
    --hover: #130c02;
-   --btn-hover1:#a8ccf5;
-   --btn-hover2:#146ef5;
+   --btn-hover1:#751c91;
+   --btn-hover2:#b271bb;
    --footer: #dbdee6;
-   --form-hover1:#c0e4e9;
-   --form-hover2:#e0eff0;
-   --form-hover3:#178fbede;
+   --form-hover1:#dcc0e991;
+   --form-hover2:#dfd1f1;
+   --form-hover3:#7d27eead;
    --font: 'Raleway',sans-serif;
 }
 
@@ -34,7 +35,7 @@ a{
 }
 
 img {
-    border-radius: 1rem;
+    border-radius: 0.5rem;
 }
 
 
