@@ -5,7 +5,9 @@ section.footer{
 }
 
 .footer__rodape{
-    background: linear-gradient(-45deg, var(--form-hover3) , var(--form-hover2), var(--form-hover3));
+    background: linear-gradient(-45deg, var(--form-hover3) , var(--form-hover2));
+    color: var(--cor-de-fonte-footer);
     text-decoration: none;
 }
+
 

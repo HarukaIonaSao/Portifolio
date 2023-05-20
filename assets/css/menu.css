@@ -1,6 +1,7 @@
 /* menu */
 section.menu{
     background-color: var(--cor-da-navbar);
+    color:var(--cor-de-fonte-about);
     display: flex;
     align-items: center;
     justify-content: space-between;

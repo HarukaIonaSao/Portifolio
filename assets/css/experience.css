@@ -51,6 +51,7 @@ section.experience{
     background: linear-gradient(45deg, var(--cor-btn1) ,  var(--cor-btn2));
     border: none;
     border-radius: 0.313rem;
+    color: var(--cor-de-fonte);
     height: 3rem;
     margin-bottom:1rem;
     width: 10rem;

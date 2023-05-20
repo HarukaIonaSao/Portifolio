@@ -28,9 +28,12 @@ section.formcontato{
     margin-top: 0.6rem;
 }
 
-.formcontato__input:hover , .formcontato__textarea:hover{
+.formcontato__input:hover , .formcontato__textarea:hover 
+{
     background: linear-gradient(45deg, var(--form-hover1) , var(--form-hover2), var(--form-hover3));
+    color: var(--cor-de-fonte);
 }
+
 
 .formcontato__botao{
     background-color: var(--branco);
@@ -44,4 +47,5 @@ section.formcontato{
 
 .formcontato__botao:hover{
     background: linear-gradient(45deg, var(--form-hover1) , var(--form-hover2), var(--form-hover3));
+    color: var(--cor-de-fonte);
 }

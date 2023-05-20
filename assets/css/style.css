@@ -1,19 +1,21 @@
 :root{
-   --cor-de-fonte: #464646;
+   --cor-de-fonte: #ece7e7;
+   --cor-de-fonte-footer: #141414;
+   --cor-de-fonte-about: #000000;
    --cor-de-foto-fundo: #800080;
-   --cor-de-fundo: #f7b9f760;
-   --cor-de-link: #000;
+   --cor-de-fundo: #5e045ef5;
+   --cor-de-link: #131212;
    --cor-da-navbar: #ffffff;
    --branco: #f5f5f5;
    --cor-btn1:#840c9c91;
-   --cor-btn2:#cf7cdf4f;
+   --cor-btn2:#e4c1eb4f;
    --hover: #130c02;
    --btn-hover1:#751c91;
    --btn-hover2:#b271bb;
    --footer: #dbdee6;
-   --form-hover1:#dcc0e991;
-   --form-hover2:#dfd1f1;
-   --form-hover3:#7d27eead;
+   --form-hover1:#ffffffea;
+   --form-hover2:#d4c7e4;
+   --form-hover3:#31105c34;
    --font: 'Raleway',sans-serif;
 }
 

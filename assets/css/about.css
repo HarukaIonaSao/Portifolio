@@ -13,13 +13,13 @@ section.about{
 }
 
 .about__title{
-    color: var(--cor-de-fonte);
+    color: var(--cor-de-fonte-about);
     font-size: 2rem;
     font-weight: 700;
 }
 
 .about__paragraph{
-    color: var(--cor-de-fonte);
+    color: var(--cor-de-fonte-about);
     font-size: 1rem;
 }
 
@@ -29,5 +29,3 @@ section.about{
     width: 12.75rem;
 }
 
-/* Responsividade
-@media (min-width: 768px) */
